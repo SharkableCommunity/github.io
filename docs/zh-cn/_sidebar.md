@@ -1,2 +1,2 @@
 * [首页](/)
-* [快速开始](guide.md)
+* [快速开始](quickstart.md)

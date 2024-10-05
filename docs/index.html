@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
-  <nav></nav>
+  <nav>
     <a href="#/">EN</a>
     <a href="#/zh-cn/">简体中文</a>
   </nav>
@@ -54,7 +54,7 @@
 
         // To avoid search index collision
         // between multiple websites under the same domain
-        namespace: 'website-1',
+        namespace: 'sharkableio.github.io',
 
         // Use different indexes for path prefixes (namespaces).
         // NOTE: Only works in 'auto' mode.
@@ -72,5 +72,7 @@
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-csharp.min.js"></script>
+  <script src="//unpkg.com/docsify-copy-code"></script>
 </body>
 </html>
