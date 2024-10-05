@@ -1,2 +1,2 @@
 * [Home](/)
-* [QuickStart](zh-cn/quickstart.md)
+* [QuickStart](quickstart.md)
