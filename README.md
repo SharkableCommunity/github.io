@@ -1,5 +1,5 @@
 # Sharkable Doc Repo
 documents for Sharkable
 
-## [Sharkable Project Website](https://github.com/sharkableio/sharkable)
+## [Sharkable Project Website](https://sharkableio.github.io)
 
